@@ -65,52 +65,52 @@ const ResumeSection = () => {
 
 
                   <div className="w-[60px]">
-                     <img loading="lazy" src="g4.svg" alt="" />
+                     {/* <img loading="lazy" src="g4.svg" alt="" /> */}
 
                     </div>
 
                   <div className="w-[60px]">
-                     <img loading="lazy" src="javascript-programming-language-icon.svg" alt="" />
+                     {/* <img loading="lazy" src="javascript-programming-language-icon.svg" alt="" /> */}
 
                     </div>
 
                   <div className="w-[60px]">
-                     <img loading="lazy" src="html-icon.svg" alt="" />
+                     {/* <img loading="lazy" src="html-icon.svg" alt="" /> */}
 
                     </div>
 
                   <div className="w-[60px]">
-                     <img loading="lazy" src="4202020_css3_html_logo_social_social media_icon.svg" alt="" />
+                     {/* <img loading="lazy" src="4202020_css3_html_logo_social_social media_icon.svg" alt="" /> */}
 
                     </div>
 
                   <div className="w-[60px]">
-                     <img loading="lazy" src="tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="" />
+                     {/* <img loading="lazy" src="tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="" /> */}
 
                     </div>
 
                   <div className="w-[60px] relative -left-10">
-                     <svg loading="lazy" xmlns="http://www.w3.org/2000/svg" width="140" height="140"><path d="M 44.65 33.992 L 95.35 33.992 L 95.35 59.341 L 70 59.341 Z M 44.65 59.341 L 70 59.341 L 95.35 84.691 L 44.65 84.691 Z M 44.65 84.691 L 70 84.691 L 70 110.041 Z" fill="rgb(0, 0, 0)"></path></svg>
+                     {/* <svg loading="lazy" xmlns="http://www.w3.org/2000/svg" width="140" height="140"><path d="M 44.65 33.992 L 95.35 33.992 L 95.35 59.341 L 70 59.341 Z M 44.65 59.341 L 70 59.341 L 95.35 84.691 L 44.65 84.691 Z M 44.65 84.691 L 70 84.691 L 70 110.041 Z" fill="rgb(0, 0, 0)"></path></svg> */}
 
                     </div>
                     
                   <div className="w-[60px]">
-                     <img loading="lazy" src="three-js-icon.svg" alt="" />
+                     {/* <img loading="lazy" src="three-js-icon.svg" alt="" /> */}
 
                     </div>
                     
                   <div className="w-[60px]">
-                     <img loading="lazy" src="blender_icon_64x64.png" alt="" />
+                     {/* <img loading="lazy" src="blender_icon_64x64.png" alt="" /> */}
 
                     </div>
 
                   <div className="w-[130px]">
-                     <img loading="lazy" src="Inkscape-Logo.wine.svg" alt="" />
+                     {/* <img loading="lazy" src="Inkscape-Logo.wine.svg" alt="" /> */}
 
                     </div>
 
                   <div className="w-[130px]">
-                     <img loading="lazy" src="GIMP-Logo.wine.svg" alt="" />
+                     {/* <img loading="lazy" src="GIMP-Logo.wine.svg" alt="" /> */}
 
                     </div>
               </div>
